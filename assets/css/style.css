@@ -1,0 +1,28 @@
+html {
+    background: url("../images/moviebackground.jpg");
+    background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	text-shadow: 2px 3px 4px black;
+}
+
+h2 {
+	color: white;
+	text-shadow: 2px 3px 4px black;
+}
+
+button {
+    background-color: lightblue;
+    font-size: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10%;
+    border-color: black;
+}
+
+#movie-input, #add-movie {
+	margin: 3px;
+}
